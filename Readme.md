@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="weatherly-logo.png" alt="Weatherly Logo" width="300">
+  <img src="/public/logo.svg" alt="Weatherly Logo" width="300">
 </p>
 
 <h1 align="center">Weatherly: Your Weather Companion</h1>
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.weatherly-app.com">Visit Weatherly</a> |
-  <a href="https://www.weatherly-app.com/blog">Read our Blog Article</a> |
-  <a href="https://www.linkedin.com/in/yourname">Connect on LinkedIn</a>
+  <a href="https://bcodesolutions.tech">Visit Weatherly</a> |
+  <a href="https://bcodes.hashnode.dev/introducing-weatherapp-your-ultimate-weather-companion">Read our Blog Article</a> |
+  <a href="www.linkedin.com/in/enoch-amankwah-boahen-6407b2292">Connect on LinkedIn</a>
 </p>
 
 <h2 align="center">Installation</h2>
