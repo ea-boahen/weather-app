@@ -30,7 +30,7 @@ function fetchData (city) {
 //const apiKey = 'ae35ec2f9f983d5fa9a21c085bd025c4';
 
 // Construct the URL for the API request
-apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&APPID=${apiKey}`;
+apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&APPID=${apiKey}`;
 console.log (apiUrl);
 // Make a GET request to the API
 fetch(apiUrl)
