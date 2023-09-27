@@ -33,7 +33,7 @@ if ("geolocation" in navigator) {
       // Now, you can use these coordinates to make requests to location-based services or display the user's location on a map.
 	  // Select the <p> element by its class name
 		homeCaptionElement = document.querySelector('.home-caption');
-		apiUrlcity = `http://api.openweathermap.org/geo/1.0/reverse?lat=${latitude}&lon=${longitude}&limit=5&appid=${apiKey}`;
+		apiUrlcity = `https://api.openweathermap.org/geo/1.0/reverse?lat=${latitude}&lon=${longitude}&limit=5&appid=${apiKey}`;
 		// Make a GET request to the API
 		fetch(apiUrlcity)
 		  .then(response => response.json())
